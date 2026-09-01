@@ -1,0 +1,24 @@
+.vscode/
+.idea/
+*.db
+*.db-lock
+*.db-wal
+*.db-shm
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python Caches & Environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Model Weights & Data Artifacts
+*.h5
+*.pth
+*.pt
+*.pkl
+
